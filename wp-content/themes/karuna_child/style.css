@@ -1,0 +1,71 @@
+/*
+Theme Name: Karuna_Child
+theme URI: localhost/wordpress_site/
+Description: This is a child theme of Karuna
+Author: Ben Gammage
+Author URI:
+Template: Karuna
+Version: 0.1
+*/
+
+@import url("../karuna/style.css");
+
+.top-bar {
+    background-color: #2e2e2e;
+}
+
+.menu-toggle {
+    border-color: #2e2e2e;
+    color: #2e2e2e;
+}
+
+button:active {
+    color: red;
+    border-color: red;
+}
+
+button:hover {
+    color: red;
+    border-color: red;
+}
+
+button:focus {
+    color: red;
+    border-color: red;
+}
+
+.entry-title a:hover {
+    color: red;
+    }
+
+
+.site-info {
+    display: none;
+}
+
+.site-footer, .footer-widgets, .footer-widgets-wrapper  {
+    background-color: #2e2e2e;
+}
+
+.wp-block-column {
+
+    padding: 0;
+}
+
+
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin-left: 0;
+}
+
+h5 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+

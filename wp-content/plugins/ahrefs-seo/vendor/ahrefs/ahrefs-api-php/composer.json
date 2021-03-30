@@ -1,0 +1,20 @@
+{
+  "name": "ahrefs/ahrefs-api-php",
+  "description": "Wrapper for Ahrefs API V2",
+  "authors": [
+    {
+      "name": "ahrefs"
+    }
+  ],
+  "require": {
+    "ext-curl": "*"
+  },
+  "suggest": {
+    "guzzlehttp/guzzle": "Required to use Guzzle HTTP Client mode, require version 6.3+"
+  },
+  "autoload": {
+    "psr-4": {
+      "ahrefs\\AhrefsApiPhp\\": "lib"
+    }
+  }
+}

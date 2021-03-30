@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/wordpress_site/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://localhost/wordpress_site/post-sitemap.xml</loc>
+		<lastmod>2021-03-29T16:30:55+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/wordpress_site/page-sitemap.xml</loc>
+		<lastmod>2021-03-27T20:03:01+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/wordpress_site/category-sitemap.xml</loc>
+		<lastmod>2021-03-29T16:30:55+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
